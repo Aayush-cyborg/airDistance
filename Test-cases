@@ -1,0 +1,112 @@
+
+TEST CASE 1 FROM UNIVERSITY OF NEBRASKA LINCOLN TO OMAHA
+______________________________________________________________________________________
+Test Case ID: Test_1                          Test Designed by: Aayush kulkarni       |
+______________________________________________________________________________________|
+Test Priority (Low/Medium/High): Med              Test Designed date: 03-09-2022      |
+Module Name: airDistance                          Executed by: Aayush kulkarni        |
+Test Title: Univ.nebraska lincoln to omaha        Test Execution date: 04-09-2022     |
+Description: To test c program on airdistance                                         |
+______________________________________________________________________________________|
+
+_____________________________________________________________________________
+TC.no. | Test Statement | ExpectedResult | ActualResult | Status(pass/ fail) |
+       | AirDistance    |   Distance is: |  Distance is |                    |
+-----------------------------------------------------------------------------|
+  1    | From nebraska  |   45.69 kms    |   45.69 kms  |      PASS          |
+       | lincoln to     |                |              |                    |
+       | omaha          |                |              |                    |
+-----------------------------------------------------------------------------~
+______________________________________________
+OUTPUT :                                      |
+Enter Latitude of origin in degrees:          |
+41.151230                                     |
+Enter Longitude of origin in degrees:         |
+ -96.465020                                   |
+Enter Latitude of Destination in degrees:     |
+41.25861                                      |
+Enter Longitude of Destination in degrees:    |
+-95.93779                                     |
+                                              |
+Location Distance:                            |
+===============================               |
+Origin: (41.151230,-96.465020)                |
+Destination: (41.258610,-95.937790)           |
+Air Distance is 45.694710 kms                 |
+----------------------------------------------~
+
+______________________________________________________________________________________
+TEST CASE 2 FROM LOS ANGELES TO SAN-FRANCISCO                                         |
+______________________________________________________________________________________|
+Test Case ID: Test_2                          Test Designed by: Aayush kulkarni       |
+______________________________________________________________________________________|
+Test Priority (Low/Medium/High): High             Test Designed date: 03-09-2022      |
+Module Name: airDistance                          Executed by: Aayush kulkarni        |
+Test Title: Los angeles to san francisco          Test Execution date: 04-09-2022     |
+Description: To test c program on airdistance                                         |
+______________________________________________________________________________________|
+
+_____________________________________________________________________________
+TC.no. | Test Statement | ExpectedResult | ActualResult | Status(pass/ fail) |
+       | AirDistance    |in Distance is: |in Distance is|                    |
+-----------------------------------------------------------------------------|
+  1    | From Los angel-|  559.09 kms    |   559.09 kms |      PASS          |
+       | -es to San     |                |              |                    |
+       |  Francisco     |                |              |                    |
+-----------------------------------------------------------------------------~
+______________________________________________
+OUTPUT :                                      |
+Enter Latitude of origin in degrees:          |
+34.052200                                     |
+Enter Longitude of origin in degrees:         |
+118.243700                                    |
+Enter Latitude of Destination in degrees:     |
+37.774900                                     |
+Enter Longitude of Destination in degrees:    |
+122.419400                                    |
+                                              |
+Location Distance:                            |
+===============================               |
+Origin: (34.052200,118.243700)                |
+Destination: (37.774900,122.419400)           |
+Air Distance is 559.120569 kms                |
+----------------------------------------------~
+
+
+______________________________________________________________________________________
+TEST CASE 3 FROM MUMBAI TO NEW YORK                                                   |
+______________________________________________________________________________________|
+Test Case ID: Test_3                          Test Designed by: Aayush kulkarni       |
+______________________________________________________________________________________|
+Test Priority (Low/Medium/High): low              Test Designed date: 03-09-2022      |
+Module Name: airDistance                          Executed by: Aayush kulkarni        |
+Test Title: Mumbai to New York                    Test Execution date: 04-09-2022     |
+Description: To test c program on airdistance                                         |
+______________________________________________________________________________________|
+
+_____________________________________________________________________________
+TC.no. | Test Statement | ExpectedResult | ActualResult | Status(pass/ fail) |
+       | AirDistance    |in Distance is: |in Distance is|                    |
+-----------------------------------------------------------------------------|
+  1    | From Mumbai    | 2,408.301 kms  | 2408.301 kms |      PASS          |
+       |     to         |                |              |                    |
+       |   New York     |                |              |                    |
+-----------------------------------------------------------------------------~
+______________________________________________
+OUTPUT :                                      |
+Enter Latitude of origin in degrees:          |
+19.076000                                     |
+Enter Longitude of origin in degrees:         |
+72.877700                                     |
+Enter Latitude of Destination in degrees:     |
+40.712800                                     |
+Enter Longitude of Destination in degrees:    |
+74.006000                                     |
+                                              |
+Location Distance:                            |
+===============================               |
+Origin: (19.076000,72.877700)                 |
+Destination: (40.712800,74.006000)            |
+Air Distance is 2408.301163 kms               |
+----------------------------------------------~
+
